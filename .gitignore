@@ -1,0 +1,14 @@
+
+---
+
+### ✅ 4. `.gitignore`
+
+```gitignore
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
+.vscode/
